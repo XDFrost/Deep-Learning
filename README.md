@@ -110,4 +110,22 @@
 - Batch Normalization
 
       - Understanding Batch Normalization
-      
+
+- Optimizers
+
+      - Understanding Optimizers
+      - Types of Optimizers
+      - Exponential Moving Weighted Average
+            1. Batch Gradient Descent
+            2. Stochastic Gradient Descent
+            3. Mini-Batch Gradient Descent
+            4. Momentum
+            5. Nesterov Accelerated Gradient (NAG)
+            6. Adaptive Gradient (AdaGrad)      
+            7. Root Mean Square Propagation (RMSProp)
+            8. Adaptive Moment Estimation (Adam)
+
+- Hyperparameter Tuning
+
+      - Understanding Hyperparameter Tuning
+      - Using keras-tuner for Hyperparameter Tuning
