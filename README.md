@@ -6,6 +6,8 @@
  
 <h2>Contents</h2>
 
+### ANN
+
 - Basics of Neural Networks
 
 - Perceptron
@@ -129,3 +131,58 @@
 
       - Understanding Hyperparameter Tuning
       - Using keras-tuner for Hyperparameter Tuning
+
+
+### CNN
+
+- Basics of Convolutional Neural Networks
+
+- Convolutional Neural Networks
+
+      - Understanding about Convolutional Neural Networks
+      - Convolutional Neural Networks Architecture
+      - Convolutional Neural Networks Intuition
+      - Convolutional Neural Networks Layers
+            1. Convolutional Layer
+            2. Pooling Layer
+            3. Fully Connected Layer
+            4. Output Layer
+
+- Convolutional Operation
+      
+      - Understanding about Convolutional Operation
+      - Convolutional Operation Intuition
+
+- Padding
+
+      - Understanding about Padding
+      - Types of Padding
+            1. Valid Padding
+            2. Same Padding
+      - Implementing Padding in Keras
+
+- Strides 
+
+      - Understanding about Strides
+      - Implementing Strides in Keras
+
+- Pooling
+
+      - Understanding about Pooling
+      - Types of Pooling
+            1. Max Pooling
+            2. Min Pooling
+            3. Average Pooling
+            4. L2-norm Pooling
+            5. Global Pooling
+      - Implementing Pooling in Keras
+      
+- LeNet-5
+
+      - LeNet-5 Architecture
+      - LeNet-5 Layers
+            1. Convolutional Layer
+            2. Pooling Layer
+            3. Fully Connected Layer
+            4. Output Layer
+      - Implementing LeNet-5 in Keras
